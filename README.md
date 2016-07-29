@@ -1,3 +1,8 @@
+Project Was Moved
+================
+
+Please visit  [buzzySmile/qBreakpad](https://github.com/buzzySmile/qBreakpad) to get latest library version.
+
 Breakpad-Qt
 ================
 Breakpad-Qt is Qt library to use google-breakpad crash reporting facilities. Supports
